@@ -1,6 +1,6 @@
 # Auto Playlist
 
-Auto Playlist will fetch a user's top songs from their Last.fm profile, and automatically add these to a Spotify playlist.
+Auto Playlist will fetch a user's top songs from their Last.fm profile and automatically add them to a Spotify playlist.
 
 ## Getting Started
 
